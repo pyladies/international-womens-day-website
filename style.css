@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+
 	margin-bottom: 15px;
 }
 
@@ -323,6 +324,7 @@ span.fa {
 	color: rgba(0,0,0,.7);
 	text-transform: none;
 	text-decoration: none;
+	text-align: center;
 }
 
 .resource {
@@ -334,7 +336,7 @@ span.fa {
 	width: 320px;
 	box-shadow: 0 4px 10px 0 rgba(0,0,0,0.1), 0 4px 20px 0 rgba(0,0,0,0.1);
 	display: block;
-	text-align: left;
+	text-align: center;
 	font-size: 16px;
 }
 
@@ -358,7 +360,7 @@ span.fa {
 	text-align: center;
 	font-size: 14px;
 	padding-top: 15px;
-	background-color: #0e0c4f;
+	background-color: #4d4964;
 	padding-right: 16px;
 }
 
@@ -399,4 +401,11 @@ span.fa {
 	.small-geek {
 		display: none;
 	}
+}
+
+/* Form button */
+.btn-secondary {
+    color: #fff;
+    background-color: deeppink;
+    border-color: deeppink;
 }
