@@ -7,7 +7,7 @@
 }
 
 body{
-	background-color: #fff;
+	background-color: #c5d0eb;
 	color: #333;
 	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
@@ -189,8 +189,8 @@ p {
 }
 
 nav.navbar {
-	background-color: #2B2D42;
-	color: #8D99AE;
+	background-color: #c5d0eb;
+	color: #d6e2f7;
 }
 
 .nav-item:hover {
@@ -239,7 +239,7 @@ nav.navbar {
 }
 
 .skyline {
-	background-image: url('images/skyline.jpg');
+	background-image: url('images/iwd2023.png');
 	height: 450px;
 	background-size:cover;
 }
